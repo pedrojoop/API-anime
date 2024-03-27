@@ -11,8 +11,6 @@ O objetivo principal deste projeto é oferecer uma solução fácil de usar para
 - Inserção de novos animes
 - Recuperação da lista de todos os animes
 - Recuperação de informações detalhadas de um anime específico
-- Atualização de informações de um anime
-- Exclusão de um anime
 
 ## Configuração e Execução
 
